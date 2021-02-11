@@ -13,7 +13,9 @@ In the message you must provide the following information:
 - Name
 - Mail you use on the Google Play store
 - A name for the game (**Optional**)
-  
+
 If you participate in the play-testing, you *might* even be rewarded for it. :)
 
-Older news articles can be found under [News](news.md)
+___
+
+*Older news articles can be found under [News](news.md)*
