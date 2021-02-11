@@ -1,4 +1,4 @@
-# Welcome to Bulldog Games Website!
+# Bulldog Games
 
 ## Latest news
 
