@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: Bulldog Games
+header_pages:
+  - README.md
+  - spaceshooters.md
