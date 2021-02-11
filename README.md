@@ -16,6 +16,6 @@ In the message you must provide the following information:
 
 If you participate in the play-testing, you *might* even be rewarded for it. :)
 
-___
+---
 
 *Older news articles can be found under [News](news.md)*
