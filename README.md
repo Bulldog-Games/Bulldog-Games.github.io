@@ -8,4 +8,10 @@ We are now accepting request for beta testing of our latest game, for the time b
 
 The game will first of all be realeased to Android, on the Google Play store. If you want to participate in the play-testing of our game, Please contact us directy on our mail: bulldoggames@gmail.com or send a message on Instagram, the link can be found here. 
 
+In the message you must provide the following information:
+
+- Name
+- Mail you use on the Google Play store
+- A name for the game (**Optional**)
+
 
