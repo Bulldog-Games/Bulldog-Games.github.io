@@ -6,7 +6,7 @@ On this page, you can follow the development of our game, if you want to partici
 
 (This will be updated once the game enters the play-testing state)
 
-___
+---
 
 *Older patch-notes can be found [here](olderpatchers.md)*
 
