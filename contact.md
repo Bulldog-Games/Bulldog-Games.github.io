@@ -1,9 +1,9 @@
-# Contact
+# Kontakta oss
 
-You can contact us directly via mail:
+Du kan kontakta oss via mail:
 
 - [bulldoggamesuf@gmail.com](mailto:bulldoggames@gmail.com)
 
-Or contact us via Instagram:
+Eller via våra instagramsida:
 
 - [Instagram](https://www.instagram.com/bulldoggamesuf/) 

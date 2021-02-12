@@ -1,21 +1,19 @@
 # Bulldog Games
 
-## Latest news
+## Senaste nyheterna
 
-### Sign up for beta-testing 2021-02-11 (Updated)
+### Vi söker speltestare! 2021-02-11
 
-We are now accepting request for beta testing of our latest game, for the time being we have not decided for a name on this game. But we hope, with your help, to come up with a good one.
+Vi accepterar just nu speltestare till vårat nya mobilspel, som för nuvarande kallas "Space Shooters". Om du vill läsa mer om spelet kan du göra det här: [Space Shooters](spaceshooters.md)
 
-If you want more information an patch-notes on the game, [click here.](spaceshooters.md)
+För att anmäla dig till test-verisionen är det så simplet att bara följa denna länken:  [https://play.google.com/store/apps/details?id=com.BulldogGames.BulldogGames](https://play.google.com/store/apps/details?id=com.BulldogGames.BulldogGames)
 
-The game will first of all be realeased to Android, on the Google Play store. If you want to participate in the play-testing of our game.
+Spelet kommer till en början endast att släppas till Android-telefoner, men det finns planer att släppa en PC-verision inom snar framtid.
 
-The game is open for testing on Android devices via this link: [https://play.google.com/store/apps/details?id=com.BulldogGames.BulldogGames](https://play.google.com/store/apps/details?id=com.BulldogGames.BulldogGames)
+Om du skriver upp dig till test-verisionen *kanske* det till och med finns en lite belöning i slutändan...
 
-**Please note:** This version is in a very early state of development, things just don't work as they are intended.
-
-If you participate in the play-testing, you *might* even be rewarded for it. :)
+**Var snälla att notera att spelet fortfarande är i ett test-stadie, detta betyder att inget fungerar som det ska**
 
 ---
 
-*Older news articles can be found under [News](news.md)*
+*Äldre nyheter kan du hitta [här.](news.md)*
