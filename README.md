@@ -15,6 +15,7 @@ The game is open for testing on Android devices via this link: [https://play.goo
 **Please note:** This version is in a very early state of development, things just don't work as they are intended.
 
 If you participate in the play-testing, you *might* even be rewarded for it. :)
+
 ---
 
 *Older news articles can be found under [News](news.md)*
