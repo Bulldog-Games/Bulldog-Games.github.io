@@ -6,6 +6,10 @@ On this page, you can follow the development of our game, if you want to partici
 
 (This will be updated once the game enters the play-testing state)
 
+---
+
+*Older patch-notes can be found [here](olderpatchers.md)*
+
 ## Source code
 
 For now, the source code for the game is private. But after a couple of months after the realease, the source code will be avalible on our Github. So stay updated both on this page, and on our instagram.

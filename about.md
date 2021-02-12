@@ -11,4 +11,6 @@ More info...
 
 ### Albin Forsberg
 
-Albin Forsberg is Chief financial officer and our lead developer
+Albin Forsberg is Chief financial officer and our lead developer.
+
+More info...
