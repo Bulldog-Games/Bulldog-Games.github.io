@@ -4,7 +4,12 @@ På denna sidan kommer du kunna följa utvecklingen av vårat spel.
 
 ## Senaste uppdateringen
 
-Detta kommer uppdateras med tiden.
+### Version 0.0.4
+
+#### Nytt
+
+- Pause meny
+- Förbättrad finende pathfinding
 
 ---
 
