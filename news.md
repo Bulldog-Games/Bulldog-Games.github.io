@@ -6,6 +6,8 @@ Vi accepterar just nu speltestare till vårat nya mobilspel, som för nuvarande 
 
 För att anmäla dig till test-verisionen är det så simplet att bara följa denna länken:  [https://play.google.com/apps/testing/com.BulldogGames.BulldogGames](https://play.google.com/apps/testing/com.BulldogGames.BulldogGames)
 
+Spelet finns då även tillgänglig att köpa [här](https://play.google.com/store/apps/details?id=com.BulldogGames.BulldogGames)
+
 Spelet kommer till en början endast att släppas till Android-telefoner, men det finns planer att släppa en PC-verision inom snar framtid.
 
 Om du skriver upp dig till test-verisionen *kanske* det till och med finns en lite belöning i slutändan...
