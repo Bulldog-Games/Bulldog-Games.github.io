@@ -13,7 +13,7 @@ På denna sidan kommer du kunna följa utvecklingen av vårat spel.
 
 ---
 
-*Older patch-notes can be found [here](olderpatchers.md)*
+*Äldre verisioner kan du hitta [här](olderpatchers.md)*
 
 ## Source code
 
