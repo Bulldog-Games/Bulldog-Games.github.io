@@ -5,7 +5,8 @@
 
 <div class="main" style="display: flex; flex-direction: column;">
 
-### Vilhelm Lindahl
+<h3>Vilhelm Lindahl</h3>
+
 <div class="section" style="flex: 1">
 <img src="img/Vilhelm.jpg"
      alt="Vilhelm"
@@ -13,12 +14,14 @@
 
 Vilhelm Lindah är våran VD.
 
-**Kontakt:** Mail
+<br>
+
+<b>Kontakt: </b> Mail
 </div>
 
 <hr>
 
-### Albin Forsberg
+<h3>Albin Forsberg</h3>
 
 <div class="section" style="flex: 1">
 <img src="img/Albin.jpg"
@@ -27,7 +30,9 @@ Vilhelm Lindah är våran VD.
 
 Albin Forsberg är våran huvudutvecklare av Space Shooters, men har även hand om våran ekonomi.
 
-**Kontakt:** albin02forsberg@gmail.com
+<br>
+
+<b>Kontakt: </b> albin02forsberg@gmail.com
 
 </div>
 
