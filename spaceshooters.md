@@ -4,6 +4,15 @@ På denna sidan kommer du kunna följa utvecklingen av vårat spel.
 
 ## Senaste uppdateringen
 
+### version 0.0.7
+
+#### Nytt
+
+- Nytt spawn system för fiendeskepp
+- Bytte från vågsystem till poängsystem
+- Ui för poäng
+- Små buggfixar
+
 ### Version 0.0.6
 
 #### Nytt
