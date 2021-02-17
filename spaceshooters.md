@@ -12,7 +12,7 @@ På denna sidan kommer du kunna följa utvecklingen av vårat spel.
 - Fiender som faktiskt skjuter mot dej, dock så skader dom ej
 - Fiender spawnar på olika platser
 
-Om ni skulle hitta några buggar eller problem i denna verisionen, var snälla och kontakta oss via [bulldoggames@gmail.com](mailto:bulldoggames@gmail.com)
+Om ni skulle hitta några buggar eller problem i denna verisionen, var snälla och kontakta oss via [bulldoggamesuf@gmail.com](mailto:bulldoggamesuf@gmail.com)
 
 ### Version 0.0.4
 

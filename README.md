@@ -14,7 +14,7 @@ Spelet kommer till en början endast att släppas till Android-telefoner, men de
 
 Om du skriver upp dig till test-verisionen *kanske* det till och med finns en lite belöning i slutändan...
 
-**Var snälla att notera att spelet fortfarande är i ett test-stadie, detta betyder att inget fungerar som det ska**
+**Var snälla att notera att spelet fortfarande är i ett test-stadie, detta betyder att vissa fuktioner kan vara instabila**
 
 ---
 

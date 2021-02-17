@@ -2,7 +2,7 @@
 
 Du kan kontakta oss via mail:
 
-- [bulldoggamesuf@gmail.com](mailto:bulldoggames@gmail.com)
+- [bulldoggamesuf@gmail.com](mailto:bulldoggamesuf@gmail.com)
 
 Eller via våra instagramsida:
 
