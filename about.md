@@ -24,7 +24,7 @@ Vilhelm Lindah är våran VD.
 <h3>Albin Forsberg</h3>
 
 <div class="section" style="flex: 1">
-<img src="img/Albin.jpg"
+<img src="img/img.jpg"
      alt="Albin Forsberg"
      style="float: left; margin-right: 10px; width: 35%" />
 
